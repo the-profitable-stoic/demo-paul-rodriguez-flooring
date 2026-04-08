@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-paul-rodriguez-flooring.dream-surge.com/sitemap-index.xml

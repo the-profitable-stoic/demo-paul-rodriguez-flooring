@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Paul Rodriguez Flooring",
+    "phone": "+16613431856",
+    "category": "flooring contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Flooring Experts",
+      "heroSubline": "Durable floors, expertly installed. Serving Kern County with pride and precision.",
+      "aboutTitle": "Craftsmanship You Can Stand On",
+      "aboutText": [
+        "Paul Rodriguez Flooring started with a simple goal: to provide Bakersfield with flooring solutions built to last. We're a family-owned business rooted in hard work and a commitment to quality.",
+        "We approach every project with honesty and integrity. Our team takes the time to understand your needs and deliver flooring that exceeds expectations, whether it's a new build in Seven Oaks or a remodel in Oleander-Sunset.",
+        "We're invested in Bakersfield. From sponsoring local youth sports to supporting community events, we believe in giving back to the city that's given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and care in every installation, ensuring lasting beauty and performance."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to tile, we offer a diverse range of flooring options to fit any style and budget."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We source only the highest-quality materials built to withstand Bakersfield's climate and daily wear."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Bakersfield's unique needs and housing styles, ensuring tailored solutions."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free estimate and discover the perfect flooring for your Bakersfield home."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Elevate your home with the timeless elegance of hardwood.",
+        "description": "Hardwood flooring brings warmth and sophistication to any Bakersfield home. Paul Rodriguez Flooring specializes in the expert installation of solid and engineered hardwood. We understand the nuances of working with wood in Bakersfield's dry climate, ensuring proper acclimation and minimizing expansion/contraction issues. Our team handles everything from subfloor preparation to precise board placement, creating a flawless and durable surface. We offer a wide range of wood species, stains, and finishes to match your style. Whether you prefer the classic look of oak or the exotic appeal of Brazilian cherry, we'll help you select the perfect hardwood to enhance your living space. We ensure minimal dust during sanding and finishing, protecting your home and air quality. Our commitment to quality craftsmanship guarantees a floor that will last for generations.",
+        "process": [
+          "Step 1: Consultation and selection of wood species and finish.",
+          "Step 2: Subfloor preparation and moisture testing.",
+          "Step 3: Precise installation of hardwood flooring.",
+          "Step 4: Sanding, staining (if desired), and sealing for protection."
+        ],
+        "benefits": [
+          "Adds lasting value to your home",
+          "Provides a warm and inviting atmosphere",
+          "Offers a wide range of styles and finishes",
+          "Increases resale appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Bakersfield's climate?",
+            "answer": "Engineered hardwood is often preferred due to its stability in fluctuating humidity levels. Solid hardwood can be used, but requires careful acclimation and moisture control."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size of the area and complexity of the design, but typically ranges from 3-7 days."
+          },
+          {
+            "question": "How do I care for my new hardwood floors?",
+            "answer": "Regular sweeping or vacuuming and occasional damp mopping with a hardwood-specific cleaner are recommended. Avoid excessive moisture and direct sunlight."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable and stylish tile flooring for any room in your home.",
+        "description": "Tile flooring offers unmatched durability and design versatility, making it an ideal choice for Bakersfield homes, especially in kitchens, bathrooms, and entryways. Paul Rodriguez Flooring provides expert tile installation services, handling everything from ceramic and porcelain to natural stone and mosaic tiles. We pay meticulous attention to detail, ensuring proper substrate preparation, precise tile alignment, and grout application. Our team understands the importance of using high-quality mortars and grouts to withstand Bakersfield's temperature fluctuations and prevent cracking. We offer a wide selection of tile styles, colors, and patterns to complement your décor. Whether you're looking for a modern, minimalist aesthetic or a classic, rustic feel, we'll help you create a stunning and long-lasting tile floor. We expertly handle waterproofing in bathrooms and kitchens to prevent water damage, a common concern in older Bakersfield homes.",
+        "process": [
+          "Step 1: Consultation and tile selection.",
+          "Step 2: Subfloor preparation and leveling.",
+          "Step 3: Precise tile layout and installation.",
+          "Step 4: Grouting and sealing for water resistance and durability."
+        ],
+        "benefits": [
+          "Exceptional durability and water resistance",
+          "Wide range of design options",
+          "Easy to clean and maintain",
+          "Ideal for high-traffic areas"
+        ],
+        "faq": [
+          {
+            "question": "Is tile flooring suitable for Bakersfield's hot summers?",
+            "answer": "Yes, tile is an excellent choice as it remains cool and comfortable underfoot, helping to regulate indoor temperatures."
+          },
+          {
+            "question": "What type of grout is best for tile flooring?",
+            "answer": "Epoxy grout is highly recommended for its stain resistance and durability, especially in kitchens and bathrooms."
+          },
+          {
+            "question": "How often should I seal my tile grout?",
+            "answer": "Sealing is recommended every 1-2 years, or as needed, to maintain its water resistance and prevent staining."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable and beautiful laminate flooring for a budget-friendly upgrade.",
+        "description": "Laminate flooring offers a cost-effective and stylish alternative to hardwood, providing the look and feel of real wood at a fraction of the price. Paul Rodriguez Flooring specializes in the professional installation of laminate flooring in Bakersfield homes, ensuring a smooth and seamless finish. We use high-quality underlayment to provide cushioning, sound insulation, and moisture protection. Our team is skilled in installing various laminate styles, including plank, tile, and stone patterns. We pay close attention to detail, ensuring proper expansion gaps to accommodate Bakersfield's temperature changes and prevent buckling. We offer a wide range of laminate flooring options, from traditional wood grains to contemporary designs, to match your style and budget. Laminate is a great option for rental properties or high-traffic areas needing an affordable upgrade.",
+        "process": [
+          "Step 1: Consultation and laminate selection.",
+          "Step 2: Subfloor preparation and underlayment installation.",
+          "Step 3: Precise laminate flooring installation.",
+          "Step 4: Trimming and finishing for a seamless look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Easy to install and maintain",
+          "Resistant to scratches and stains",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate flooring is water-resistant, it is not completely waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Can I install laminate flooring over existing flooring?",
+            "answer": "In many cases, yes. However, the existing flooring must be level and in good condition to ensure a proper installation."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Waterproof and versatile vinyl flooring for ultimate practicality.",
+        "description": "Vinyl flooring is a resilient and waterproof flooring option perfect for Bakersfield bathrooms, kitchens, and basements. Paul Rodriguez Flooring offers expert vinyl flooring installation services, ensuring a durable and attractive finish. We install both sheet vinyl and luxury vinyl plank (LVP), providing a wide range of design options to suit your needs. Our team meticulously prepares the subfloor to ensure a smooth and level surface, preventing bumps and imperfections. We use high-quality adhesives and sealants to create a watertight barrier, protecting your home from moisture damage. We offer a variety of vinyl styles, from realistic wood and stone looks to bold and modern patterns. Vinyl is a great choice for families with kids and pets due to its durability and ease of cleaning.",
+        "process": [
+          "Step 1: Consultation and vinyl selection.",
+          "Step 2: Subfloor preparation and leveling.",
+          "Step 3: Precise vinyl flooring installation.",
+          "Step 4: Sealing and finishing for a watertight seal."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Easy to clean and maintain",
+          "Durable and long-lasting",
+          "Available in a wide range of styles"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for high-traffic areas?",
+            "answer": "Yes, vinyl flooring is highly durable and can withstand heavy foot traffic, making it ideal for busy areas of your home."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and LVP?",
+            "answer": "Sheet vinyl comes in large rolls, providing a seamless surface, while LVP comes in individual planks or tiles that click together."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Regular sweeping or vacuuming and damp mopping with a mild detergent are recommended."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and cozy carpet installation for a warm and inviting home.",
+        "description": "Carpet adds warmth, comfort, and sound insulation to any Bakersfield home. Paul Rodriguez Flooring provides professional carpet installation services, ensuring a plush and even surface. We offer a wide selection of carpet styles, colors, and textures to match your décor. Our team meticulously prepares the subfloor, ensuring a smooth and level surface for optimal carpet performance. We use high-quality padding to enhance comfort and extend the life of your carpet. We expertly install carpet in bedrooms, living rooms, and hallways, creating a cozy and inviting atmosphere. We can help you choose the right carpet for your lifestyle, considering factors like foot traffic, pet ownership, and stain resistance. Our installation includes proper stretching and securing to prevent wrinkles and bunching.",
+        "process": [
+          "Step 1: Consultation and carpet selection.",
+          "Step 2: Subfloor preparation and padding installation.",
+          "Step 3: Precise carpet installation and stretching.",
+          "Step 4: Trimming and finishing for a seamless look."
+        ],
+        "benefits": [
+          "Adds warmth and comfort to your home",
+          "Provides sound insulation",
+          "Available in a wide range of styles and colors",
+          "Creates a cozy and inviting atmosphere"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and olefin carpets are known for their durability and stain resistance, making them ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I clean my carpet?",
+            "answer": "Professional cleaning is recommended every 12-18 months to remove deep-seated dirt and allergens."
+          },
+          {
+            "question": "What is the best way to remove stains from carpet?",
+            "answer": "Act quickly and blot the stain with a clean cloth. Avoid rubbing, as this can spread the stain. Use a carpet stain remover specifically designed for the type of stain."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Flooring Repair Services",
+        "shortDescription": "Expert repairs to restore your floors to their original beauty.",
+        "description": "From water damage to simple wear and tear, floors in Bakersfield homes take a beating. Paul Rodriguez Flooring offers comprehensive flooring repair services to restore your floors to their former glory. We handle repairs for hardwood, tile, laminate, vinyl, and carpet. Our team assesses the damage and provides effective solutions, whether it's replacing damaged boards, repairing cracked tiles, or patching torn carpet. We use high-quality materials and techniques to ensure a seamless and long-lasting repair. We understand the unique challenges of repairing floors in older Bakersfield homes, such as uneven subfloors and outdated materials. We strive to match the existing flooring as closely as possible, ensuring a cohesive and aesthetically pleasing result. We can address issues such as squeaky floors, loose tiles, and water damage stains, extending the life of your floors and preventing further damage.",
+        "process": [
+          "Step 1: Assessment of the damage and identification of the problem.",
+          "Step 2: Sourcing of matching materials and tools.",
+          "Step 3: Precise repair of the damaged area.",
+          "Step 4: Finishing and sealing to blend with the existing floor."
+        ],
+        "benefits": [
+          "Extends the life of your floors",
+          "Restores the beauty of your home",
+          "Prevents further damage",
+          "Cost-effective alternative to replacement"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floors need repair?",
+            "answer": "Signs include cracks, chips, water damage, loose tiles, squeaky floors, and discoloration."
+          },
+          {
+            "question": "Can you match the existing flooring during a repair?",
+            "answer": "We strive to match the existing flooring as closely as possible. However, it may not always be possible to find an exact match, especially for older or discontinued materials."
+          },
+          {
+            "question": "How long does a typical floor repair take?",
+            "answer": "The duration depends on the extent of the damage and the type of flooring. Most repairs can be completed within a day or two."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring is proud to serve the residents and businesses of Bakersfield, California. As a leading flooring contractor, we offer a wide range of services, from hardwood installation and refinishing to carpet and tile flooring solutions. We are committed to providing high-quality workmanship and exceptional customer service to ensure your satisfaction.\n\nOur team of experienced professionals understands the unique needs of Bakersfield homes and businesses. We use only the best materials and techniques to deliver lasting results that enhance the beauty and value of your property. Whether you're looking to update your kitchen, bathroom, or entire home, Paul Rodriguez Flooring has the expertise and resources to get the job done right.",
+        "localContext": "Bakersfield, known for its country music heritage and agricultural industry, boasts a diverse community and a thriving economy that Paul Rodriguez Flooring is proud to be a part of.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring extends its expert flooring services to the community of Oildale, CA. We understand the specific needs of Oildale homeowners and businesses, offering tailored solutions for every project. From durable and stylish flooring options for high-traffic areas to comfortable and elegant choices for residential spaces, we have the perfect fit for your needs.\n\nOur commitment to quality and customer satisfaction sets us apart. We use only premium materials and employ skilled installers to ensure a flawless finish that will last for years to come. Contact us today to schedule a consultation and discover how Paul Rodriguez Flooring can transform your space in Oildale.",
+        "localContext": "Oildale, a close-knit community with a strong sense of local pride and a rich history tied to the oil industry, is a place where Paul Rodriguez Flooring provides reliable and trustworthy flooring solutions.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Delano"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring is dedicated to providing top-notch flooring services to the residents of Rosedale, CA. Whether you're building a new home or renovating an existing one, we offer a wide selection of flooring options to suit your style and budget. From luxurious hardwood to durable laminate and stylish tile, we have the perfect flooring solution for your needs.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction. Our experienced team will work closely with you to understand your vision and bring it to life. With Paul Rodriguez Flooring, you can rest assured that your flooring project will be completed to the highest standards of quality and craftsmanship.",
+        "localContext": "Rosedale, a growing community known for its family-friendly atmosphere and beautiful homes, is a place where Paul Rodriguez Flooring helps create comfortable and stylish living spaces.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring proudly serves the town of Shafter, CA, offering comprehensive flooring solutions for both residential and commercial properties. We understand the importance of quality flooring and its impact on the overall look and feel of your space. That's why we offer a wide range of options, including hardwood, carpet, tile, and laminate, to suit every style and budget.\n\nOur team of experienced professionals is dedicated to providing exceptional customer service and expert installation. We'll work closely with you to choose the perfect flooring for your needs and ensure a flawless installation that will last for years to come. Trust Paul Rodriguez Flooring to transform your space in Shafter with beautiful and durable flooring.",
+        "localContext": "Shafter, a town with a strong agricultural heritage and a growing community, is a place where Paul Rodriguez Flooring provides reliable and affordable flooring solutions.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring extends its professional flooring services to Wasco, CA. We provide a wide array of flooring solutions to meet the diverse needs of Wasco homeowners and businesses. Whether you're looking to upgrade your home's interior or enhance your commercial space, we have the expertise and resources to deliver exceptional results.\n\nWe are committed to providing high-quality workmanship and outstanding customer service. Our experienced team will guide you through the selection process and ensure a seamless installation. With Paul Rodriguez Flooring, you can be confident that you're getting the best value for your investment in Wasco.",
+        "localContext": "Wasco, a town known for its rose growing industry and community events, is a place where Paul Rodriguez Flooring helps create beautiful and inviting spaces.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring is pleased to offer our flooring expertise to the residents and businesses of Tehachapi, CA. We understand the unique climate and lifestyle of Tehachapi and offer flooring solutions that are both durable and aesthetically pleasing. From cozy carpets for mountain homes to durable tile for high-traffic areas, we have the perfect flooring option for your needs.\n\nOur team of skilled installers is committed to providing exceptional service and quality workmanship. We'll work closely with you to choose the right flooring for your space and ensure a flawless installation that will last for years to come. Trust Paul Rodriguez Flooring to transform your space in Tehachapi with beautiful and long-lasting flooring.",
+        "localContext": "Tehachapi, a mountain town known for its scenic beauty and wind farms, is a place where Paul Rodriguez Flooring provides durable and stylish flooring solutions that can withstand the elements.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Mojave",
+          "California City"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring provides specialized flooring services to Arvin, CA, understanding the unique needs of this agricultural community. We offer a range of flooring options suitable for both residential and commercial spaces in Arvin, from durable and easy-to-clean surfaces for homes to robust solutions for businesses.\n\nOur focus is on delivering quality workmanship and ensuring customer satisfaction. We use premium materials and employ skilled installers who are familiar with the specific requirements of Arvin properties. Trust Paul Rodriguez Flooring to enhance the value and appeal of your space with our expert flooring services.",
+        "localContext": "Arvin, a city deeply rooted in agriculture and community values, is a place where Paul Rodriguez Flooring offers reliable and affordable flooring solutions.",
+        "nearbyAreas": [
+          "Lamont",
+          "Bakersfield",
+          "Delano"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring is proud to serve the community of Lamont, CA, with our comprehensive flooring services. We offer a wide range of flooring options to meet the diverse needs of Lamont residents and businesses, from elegant hardwood to practical and durable vinyl. We tailor our services to fit your specific requirements and budget.\n\nOur experienced team is committed to providing exceptional customer service and expert installation. We understand the importance of quality flooring in creating a comfortable and inviting space, and we strive to exceed your expectations with every project. Let Paul Rodriguez Flooring transform your Lamont property with our top-notch flooring solutions.",
+        "localContext": "Lamont, a town with a strong community spirit and agricultural base, is a place where Paul Rodriguez Flooring provides dependable and stylish flooring services.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring extends its expert services to Delano, CA. We understand the unique charm and needs of Delano homes and businesses, offering tailored flooring solutions for every project. From elegant hardwood in historic homes to durable and stylish options for modern businesses, we provide the perfect fit for your needs.\n\nOur commitment to quality and customer satisfaction is unwavering. We use only premium materials and employ skilled installers to ensure a flawless finish that will last for years to come. Contact us today to schedule a consultation and discover how Paul Rodriguez Flooring can transform your space in Delano.",
+        "localContext": "Delano, a city known for its rich agricultural heritage and vibrant community, is a place where Paul Rodriguez Flooring provides reliable and trustworthy flooring solutions.",
+        "nearbyAreas": [
+          "McFarland",
+          "Wasco",
+          "Earlimart"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Paul Rodriguez Flooring is dedicated to providing top-notch flooring services to the residents of McFarland, CA. Whether you're renovating a family home or updating a commercial space, we offer a wide selection of flooring options to suit your style and budget. From luxurious hardwood to durable laminate and stylish tile, we have the perfect flooring solution for your needs.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction. Our experienced team will work closely with you to understand your vision and bring it to life. With Paul Rodriguez Flooring, you can rest assured that your flooring project will be completed to the highest standards of quality and craftsmanship.",
+        "localContext": "McFarland, a close-knit community with a strong agricultural background, is a place where Paul Rodriguez Flooring helps create comfortable and stylish living spaces.",
+        "nearbyAreas": [
+          "Delano",
+          "Shafter",
+          "Wasco"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "Paul Rodriguez Flooring did an amazing job installing tile in my kitchen. They were professional, efficient, and the finished product looks fantastic! The team was very careful to protect my cabinets and appliances during the installation. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Hardwood Flooring Installation",
+        "text": "We had Paul Rodriguez Flooring install hardwood in our living room. The initial consultation was very informative, and the installation crew was skilled. There was a slight delay due to material availability, but they communicated clearly and kept us updated. Overall, we're very happy with the quality of the work.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "I hired Paul Rodriguez Flooring to install laminate in my rental property. They were affordable, quick, and the floors look great. My tenants are happy, and I'm happy! A great value for the price.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "Paul Rodriguez Flooring installed vinyl flooring in our bathroom, and it looks amazing. No more worries about water damage! The team was very professional and cleaned up thoroughly after the job was done. I'd definitely use them again.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "We had carpet installed in our bedrooms by Paul Rodriguez Flooring. The carpet is soft and comfortable, and the installation was well done. The only reason I didn't give 5 stars is that there were a few small scraps of carpet left behind, but overall, a good experience.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Flooring Repair Services",
+        "text": "I had some water damage to my hardwood floors, and Paul Rodriguez Flooring was able to repair it seamlessly. You can't even tell there was ever any damage. They were professional, honest, and did a fantastic job. Highly recommended!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Flooring Contractor | Bakersfield, CA",
+        "description": "Expert flooring installation and repair in Bakersfield. Hardwood, tile, laminate, vinyl, and carpet. Free estimates!"
+      },
+      "about": {
+        "title": "About Paul Rodriguez Flooring",
+        "description": "Learn about Paul Rodriguez Flooring - Bakersfield's trusted flooring contractor. Quality craftsmanship and local expertise."
+      },
+      "services": {
+        "title": "Flooring Services | Bakersfield, CA",
+        "description": "Professional flooring services in Bakersfield. Hardwood, tile, laminate, vinyl, carpet installation and repair."
+      },
+      "contact": {
+        "title": "Contact Paul Rodriguez Flooring",
+        "description": "Contact Paul Rodriguez Flooring for a free estimate. Serving Bakersfield and surrounding areas."
+      },
+      "reviews": {
+        "title": "Paul Rodriguez Flooring Reviews",
+        "description": "Read reviews from satisfied customers of Paul Rodriguez Flooring in Bakersfield. Quality flooring services."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Paul Rodriguez Flooring service areas in Bakersfield, CA and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
